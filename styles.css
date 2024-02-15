@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+label{
+	line-height:2;
+	color:darkblue;
+	font-size:18px;
+	text-decoration:bolder;
+}
+#submit{
+	width:70px;
+	height:25px;
+	border-radius:6px;
+}
